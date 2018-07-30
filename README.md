@@ -12,7 +12,7 @@
         poi3.15
         velocity1.7
         alisms1.0
-        quartz2.2.3
+        quartz2.2.3 
         mysql5.1.39
         swagger2.4
          
@@ -28,7 +28,7 @@
         iNotify
 
     platform-admin 
-    后台管理
+    后台管理1
 
     platform-api 
     微信小程序商城api接口
